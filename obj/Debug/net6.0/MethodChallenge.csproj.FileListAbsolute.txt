@@ -1,0 +1,15 @@
+C:\C# Masterclass course\MethodChallenge\bin\Debug\net6.0\MethodChallenge.exe
+C:\C# Masterclass course\MethodChallenge\bin\Debug\net6.0\MethodChallenge.deps.json
+C:\C# Masterclass course\MethodChallenge\bin\Debug\net6.0\MethodChallenge.runtimeconfig.json
+C:\C# Masterclass course\MethodChallenge\bin\Debug\net6.0\MethodChallenge.dll
+C:\C# Masterclass course\MethodChallenge\bin\Debug\net6.0\MethodChallenge.pdb
+C:\C# Masterclass course\MethodChallenge\obj\Debug\net6.0\MethodChallenge.csproj.AssemblyReference.cache
+C:\C# Masterclass course\MethodChallenge\obj\Debug\net6.0\MethodChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Masterclass course\MethodChallenge\obj\Debug\net6.0\MethodChallenge.AssemblyInfoInputs.cache
+C:\C# Masterclass course\MethodChallenge\obj\Debug\net6.0\MethodChallenge.AssemblyInfo.cs
+C:\C# Masterclass course\MethodChallenge\obj\Debug\net6.0\MethodChallenge.csproj.CoreCompileInputs.cache
+C:\C# Masterclass course\MethodChallenge\obj\Debug\net6.0\MethodChallenge.dll
+C:\C# Masterclass course\MethodChallenge\obj\Debug\net6.0\refint\MethodChallenge.dll
+C:\C# Masterclass course\MethodChallenge\obj\Debug\net6.0\MethodChallenge.pdb
+C:\C# Masterclass course\MethodChallenge\obj\Debug\net6.0\MethodChallenge.genruntimeconfig.cache
+C:\C# Masterclass course\MethodChallenge\obj\Debug\net6.0\ref\MethodChallenge.dll
